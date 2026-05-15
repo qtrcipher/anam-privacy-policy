@@ -40,9 +40,13 @@ Anam does not access your full photo library unless you grant permission through
 
 ## 5. Analytics, ads, and tracking
 
-The current version of Anam does **not** include third-party advertising, third-party analytics, or cross-app tracking.
+The current version of Anam may show ads through Google AdMob. Google Mobile Ads may process device, app, advertising, and usage signals to load, measure, and protect ads.
 
-We do **not** sell personal data.
+Anam does **not** send your farm or livestock records to Google AdMob. We do **not** currently use third-party analytics for farm records.
+
+We do **not** sell personal data. If personalized advertising, App Tracking Transparency prompts, or consent flows are added in a future version, this policy and the App Store privacy details will be updated.
+
+Google privacy policy: https://policies.google.com/privacy
 
 ## 6. Third-party services
 
@@ -50,7 +54,10 @@ The current version of Anam does not send your farm or livestock records to thir
 
 The App is distributed through Apple platforms, so Apple's privacy policy and App Store terms may apply to app download, purchase, crash diagnostics, and device-level services managed by Apple.
 
+The App uses Google AdMob to provide advertising. Google may receive information needed to request, serve, measure, and secure ads.
+
 Apple privacy policy: https://www.apple.com/legal/privacy/
+Google privacy policy: https://policies.google.com/privacy/
 
 ## 7. Data security
 
