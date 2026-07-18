@@ -1,10 +1,10 @@
 ---
-title: Anam Privacy Policy | سياسة خصوصية أنعام
+title: Anaam Privacy Policy | سياسة خصوصية أنعام
 ---
 
-# Anam Privacy Policy
+# Anaam Privacy Policy
 
-Choose your language to read the privacy policy for the Anam iOS app.
+Choose your language to read the privacy policy for the Anaam iOS app.
 
 - [English Privacy Policy](./en/)
 - [سياسة الخصوصية باللغة العربية](./ar/)

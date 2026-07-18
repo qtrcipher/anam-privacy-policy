@@ -1,6 +1,6 @@
-# Anam Privacy Policy
+# Anaam Privacy Policy
 
-This public repository hosts the bilingual privacy policy for the **Anam** iOS app.
+This public repository hosts the bilingual privacy policy for the **Anaam** iOS app.
 
 ## Published pages
 

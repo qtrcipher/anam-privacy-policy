@@ -1,8 +1,8 @@
 ---
-title: Anam Privacy Policy
+title: Anaam Privacy Policy
 ---
 
-# Anam Privacy Policy
+# Anaam Privacy Policy
 
 The current policy is available in two languages:
 
