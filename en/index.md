@@ -5,7 +5,7 @@ lang: en
 
 # Privacy Policy for Anam
 
-**Effective date:** July 18, 2026  
+**Effective date:** July 18, 2026<br>
 **Last updated:** July 18, 2026
 
 [العربية](../ar/) · [Language index](../)
