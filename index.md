@@ -11,7 +11,7 @@ Choose your language to read the privacy policy for the Anam iOS app.
 
 ---
 
-<div lang="ar" dir="rtl">
+<div lang="ar" dir="rtl" markdown="1">
 
 # سياسة خصوصية أنعام
 

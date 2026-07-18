@@ -3,7 +3,7 @@ title: سياسة خصوصية أنعام — العربية
 lang: ar
 ---
 
-<div lang="ar" dir="rtl" style="text-align: start;">
+<div lang="ar" dir="rtl" style="text-align: start;" markdown="1">
 
 # سياسة الخصوصية لتطبيق أنعام
 
