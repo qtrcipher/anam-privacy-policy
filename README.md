@@ -2,12 +2,11 @@
 
 This public repository hosts the bilingual privacy policy for the **Anaam** iOS app.
 
-## Published pages
+## Published page
 
-- Landing page: <https://qtrcipher.github.io/anam-privacy-policy/>
-- English: <https://qtrcipher.github.io/anam-privacy-policy/en/>
-- Arabic: <https://qtrcipher.github.io/anam-privacy-policy/ar/>
+- Single bilingual page (Arabic first, English below): <https://qtrcipher.github.io/anam-privacy-policy/>
+- `/ar/` and `/en/` redirect to the corresponding section of the single page (kept for links shipped in older app versions).
 
 ## Contact
 
-Privacy and support requests: **hamam@gccapps.com**
+Privacy and support requests: **hamama@gccapps.com**

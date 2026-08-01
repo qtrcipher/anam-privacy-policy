@@ -4,9 +4,8 @@ title: Anaam Privacy Policy
 
 # Anaam Privacy Policy
 
-The current policy is available in two languages:
+The current policy is published as a single bilingual page (Arabic first, English below):
 
-- [English](./en/)
-- [العربية](./ar/)
+- [سياسة الخصوصية | Privacy Policy](./)
 
-Contact: [hamam@gccapps.com](mailto:hamam@gccapps.com)
+Contact: [hamama@gccapps.com](mailto:hamama@gccapps.com)
